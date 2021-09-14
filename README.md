@@ -106,7 +106,7 @@ $ node bot.js
 
 ### ⚠️ Warning! 
 ```
-Due to Whatsapp bot; Your WhatsApp account may be banned.
+Due to Whatsapp bot; Your WhatsApp account may be banned beware.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Pikachu executives do not accept responsibility.
 By establishing the Pikachu, you are deemed to have accepted these responsibilities.
